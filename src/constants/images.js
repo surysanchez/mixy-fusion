@@ -10,6 +10,7 @@ import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
+import fork from '../assets/fork.png';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.png';
@@ -34,6 +35,7 @@ export default {
   menu,
   overlaybg,
   spoon,
+  fork,
   welcome,
   findus,
   laurels,
