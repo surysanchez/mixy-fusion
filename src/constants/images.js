@@ -9,6 +9,7 @@ import gallery04 from '../assets/gallery04.png';
 import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
+import foodmenu from '../assets/foodmenu.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
 import fork from '../assets/fork.png';
@@ -35,6 +36,7 @@ export default {
   knife,
   logo,
   menu,
+  foodmenu,
   overlaybg,
   spoon,
   fork,
