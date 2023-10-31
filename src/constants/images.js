@@ -21,6 +21,8 @@ import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
+import sign1 from '../assets/sign1.png';
+import sign2 from '../assets/sign2.png';
 import quote from '../assets/quote.png';
 import mixyfusionlogo from '../assets/mixyfusionlogo.png';
 
@@ -47,6 +49,8 @@ export default {
   award02,
   award03,
   award05,
+  sign1,
+  sign2,
   sign,
   quote,
   mixyfusionlogo,
